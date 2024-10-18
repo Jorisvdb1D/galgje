@@ -22,3 +22,5 @@ ik denk u
 res= fout
 
 ik denk o
+
+ik denk b
