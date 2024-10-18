@@ -26,3 +26,5 @@ res= goed
 
 ik denk b
 res= fout
+
+ik denk i
