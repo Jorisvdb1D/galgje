@@ -22,5 +22,7 @@ ik denk u
 res= fout
 
 ik denk o
+res= goed
 
 ik denk b
+res= fout
