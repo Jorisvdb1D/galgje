@@ -32,3 +32,5 @@ res=goed
 
 ik denk r
 res=goed
+
+ik denk dat het woord boris is, ik bedoel joris
