@@ -19,3 +19,4 @@ ik denk e
 res= fout
 
 ik denk u
+res= fout
