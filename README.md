@@ -29,3 +29,5 @@ res= fout
 
 ik denk i
 res=goed
+
+ik denk r
