@@ -20,3 +20,5 @@ res= fout
 
 ik denk u
 res= fout
+
+ik denk o
