@@ -14,3 +14,5 @@
 ## Beurten
 ik denk a  
 res= fout
+
+ik denk e
