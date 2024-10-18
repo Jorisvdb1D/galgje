@@ -17,3 +17,5 @@ res= fout
 
 ik denk e
 res= fout
+
+ik denk u
