@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-| |o| | | |
+| |o| |i| |
 
 |-|-|-|-|-|
 
@@ -28,3 +28,4 @@ ik denk b
 res= fout
 
 ik denk i
+res=goed
